@@ -1,0 +1,5 @@
+# A raw resume contains a phone number and home address. Remove this line only in a PRIVATE repo.
+resume/incoming/*.pdf
+CHANGES.md
+__pycache__/
+_site/
