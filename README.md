@@ -2,7 +2,7 @@
 
 M.Tech student, Materials and Manufacturing Technology, SRM University AP
 
-M.Tech student in Materials and Manufacturing Technology at SRM University-AP, with a B.Tech and Diploma in Mechanical Engineering. Work combines machine learning, manufacturing and materials engineering, and includes a published conference paper and a Best Paper Award at AIRIM 2026.
+I'm Lukalapu Rambabu, an M.Tech researcher in Materials and Manufacturing Technology at SRM University-AP, with a B.Tech and Diploma in Mechanical Engineering. My research combines machine learning, experimental materials research and advanced manufacturing. I presented a conference paper on engineering material selection at Curtin University Malaysia (2025) and received the Best Paper Award at AIRIM 2026 for my research on Ni–P coatings on CFRP surfaces.
 
 [Portfolio](https://lukalapu-ai-mech-folio.lovable.app/) · [LinkedIn](https://www.linkedin.com/in/lukalapu-rambabu-526854240) · [Resume (PDF)](resume.pdf)
 
